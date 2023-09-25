@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android App Development<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on Software Development/Android App Development<br>💬 Ask me about Android App Development<br>📫 How to reach me divyanshu.rathore0522@gmail.com<br>⚡ Fun fact I think, I can do everything.
+🔭 I’m currently working on Android App Development<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on Software Development/Android App Development<br>💬 Ask me about Android App Development<br>📫 How to reach me divyanshu.rathore0522@gmail.com<br>⚡ 
 
 
 ## 🌐 Socials:
